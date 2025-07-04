@@ -37,10 +37,18 @@ Sempre busco evolução técnica, clareza na comunicação e consistência no qu
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wallyrosa&theme=tokyo-night" alt="GitHub Activity Graph" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyrosa&layout=compact&theme=tokyonight"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyrosa&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="400px" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=wallyrosa&theme=tokyo-night&hide_border=true&radius=10" />
+    </td>
+  </tr>
+</table>
 
 ---
 
