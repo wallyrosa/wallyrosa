@@ -38,8 +38,8 @@ Sempre busco evolução técnica, clareza na comunicação e consistência no qu
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wally-dev&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wally-dev&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallyrosa&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyrosa&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -47,8 +47,8 @@ Sempre busco evolução técnica, clareza na comunicação e consistência no qu
 ### 🌍 Contato
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/wallysson-rosa)  
-- ✉️ Email: [seuemail@email.com](mailto:wallysson.rosa12@gmail.com)  
-- 🌐 [Portfólio (opcional)](https://wallysson.vercel.app/)  
+- ✉️ Email: [wallysson.rosa12@gmail.com](mailto:wallysson.rosa12@gmail.com)  
+- 🌐 [Portfólio](https://wallysson.vercel.app/)  
 
 ---
 
