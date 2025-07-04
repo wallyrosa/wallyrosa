@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Wally 👨‍💻</h1>
 
-<!--
-**wallyrosa/wallyrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor de Software • Especializado em Frontend • Preparado para construir soluções eficientes e acessíveis
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 Sobre
+
+Sou um desenvolvedor de software com maior atuação no **Frontend**, com sólida experiência em **React** e tecnologias modernas da web.  
+Tenho como princípios a **qualidade de código**, **arquitetura bem definida**, e foco em entregar experiências que realmente agreguem valor para quem usa.
+
+Sempre busco evolução técnica, clareza na comunicação e consistência no que construo — com um olhar atento a boas práticas, escalabilidade e performance.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas que domino
+
+> Tenho maior proficiência com tecnologias frontend, mas estou em constante evolução e aberto a novos desafios no ecossistema web e além.
+
+- **Frontend:** React, TypeScript, Zustand, TailwindCSS, Vite, TanStack Query
+- **Testes:** Testing Library, Vitest
+- **Ferramentas:** Git, Figma, Postman, Storybook
+- **Arquitetura:** Componentes reutilizáveis, Atomic Design, Onion Architecture
+
+---
+
+### 🚀 O que me move
+
+- 📚 Aprender continuamente e aplicar com responsabilidade
+- 🧩 Resolver problemas com clareza e simplicidade
+- 🤝 Escrever código que outros devs gostem de ler
+- 🧠 Entender além da ferramenta — como e por que as coisas funcionam
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wally-dev&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wally-dev&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+### 🌍 Contato
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wallysson-rosa)  
+- ✉️ Email: [seuemail@email.com](mailto:wallysson.rosa12@gmail.com)  
+- 🌐 [Portfólio (opcional)](https://wallysson.vercel.app/)  
+
+---
+
+<div align="center">
+  <strong>“A sua ideia pode ser vista — e eu posso transformá-la em realidade.”</strong>
+  <br><br>
+  <em>— Wally</em>
+</div>
